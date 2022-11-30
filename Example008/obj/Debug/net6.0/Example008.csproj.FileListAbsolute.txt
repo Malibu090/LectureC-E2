@@ -1,0 +1,15 @@
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\bin\Debug\net6.0\Example008.exe
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\bin\Debug\net6.0\Example008.deps.json
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\bin\Debug\net6.0\Example008.runtimeconfig.json
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\bin\Debug\net6.0\Example008.dll
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\bin\Debug\net6.0\Example008.pdb
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\Example008.csproj.AssemblyReference.cache
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\Example008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\Example008.AssemblyInfoInputs.cache
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\Example008.AssemblyInfo.cs
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\Example008.csproj.CoreCompileInputs.cache
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\Example008.dll
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\refint\Example008.dll
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\Example008.pdb
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\Example008.genruntimeconfig.cache
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example008\obj\Debug\net6.0\ref\Example008.dll

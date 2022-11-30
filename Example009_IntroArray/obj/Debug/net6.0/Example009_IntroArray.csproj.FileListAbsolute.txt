@@ -1,0 +1,15 @@
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.exe
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.deps.json
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.runtimeconfig.json
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.dll
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.pdb
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.AssemblyReference.cache
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfo.cs
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.dll
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\refint\Example009_IntroArray.dll
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.pdb
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.genruntimeconfig.cache
+C:\Users\Malya\Desktop\LectureC#E2\LectureC-E2\Example009_IntroArray\obj\Debug\net6.0\ref\Example009_IntroArray.dll
